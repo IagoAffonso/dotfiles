@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = iagoaffonso21@gmail.com
+	name = Iago Affonso
